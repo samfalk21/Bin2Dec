@@ -1,7 +1,5 @@
 # Bin2Dec
 
-**Tier:** 1-Beginner
-
 Binary is the number system all digital computers are based on.
 Therefore it's important for developers to understand binary, or base 2,
 mathematics. The purpose of Bin2Dec is to provide practice and
@@ -32,16 +30,3 @@ constraints:
 ## Useful links and resources
 
 [Binary number system](https://en.wikipedia.org/wiki/Binary_number)
-
-## Example projects
-
-Try not to view this until you've developed your own solution:
-
--   [Binary to decimal conversion program for beginners](https://www.youtube.com/watch?v=YMIALQE26KQ)
--   [Binary to Decimal converter using React](https://github.com/email2vimalraj/Bin2Dec)
--   [Binary to Decimal converter with plain html, js and css](https://grfreire.github.io/Bin2Dec/)
--   [Binary to Decimal converter using Flutter & Dart](https://github.com/israelss/AppIdeasCollection/tree/master/Tier1/Bin2Dec)
-    -   [Live preview built with Flutter for Web](https://bin2dec.web.app/#/)
--   [Binary to Decimal converter using React](https://github.com/geoffctn/Bin2Dec)
--   [Matrix-like Binary to Decimal converter using Angular](https://github.com/ZangiefWins/MatrixBin2Dec)
-    -   [Live preview on heroku](https://matrix-bin2dec.herokuapp.com/)
